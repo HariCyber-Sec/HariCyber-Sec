@@ -15,7 +15,7 @@
 - SOC, SIEM & Threat Detection (Blue Teaming)
 - AI + Cybersecurity
 - OSINT & Digital Forensics
-- Bug Bounty Labs (TryHackMe, Hack The Box)
+- Bug Bounty Labs 
 
 ---
 
